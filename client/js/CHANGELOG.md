@@ -1,5 +1,11 @@
 # @gradio/client
 
+## 0.10.0
+
+### Features
+
+- [#6820](https://github.com/gradio-app/gradio/pull/6820) [`649cd4d`](https://github.com/gradio-app/gradio/commit/649cd4d68041d11fcbe31f8efa455345ac49fc74) - Use `EventSource_factory` in `open_stream()` for Wasm.  Thanks [@whitphx](https://github.com/whitphx)!
+
 ## 0.9.4
 
 ### Fixes

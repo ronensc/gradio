@@ -1,5 +1,11 @@
 # @gradio/wasm
 
+## 0.4.1
+
+### Features
+
+- [#6887](https://github.com/gradio-app/gradio/pull/6887) [`8333db8`](https://github.com/gradio-app/gradio/commit/8333db83ac6e2c8511c104534c48137576d0bcd7) - Fix the Wasm worker to initialize the app directories.  Thanks [@whitphx](https://github.com/whitphx)!
+
 ## 0.4.0
 
 ### Features

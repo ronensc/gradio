@@ -1,5 +1,13 @@
 # @gradio/annotatedimage
 
+## 0.3.15
+
+### Patch Changes
+
+- Updated dependencies [[`649cd4d`](https://github.com/gradio-app/gradio/commit/649cd4d68041d11fcbe31f8efa455345ac49fc74)]:
+  - @gradio/client@0.10.0
+  - @gradio/upload@0.5.8
+
 ## 0.3.14
 
 ### Patch Changes
